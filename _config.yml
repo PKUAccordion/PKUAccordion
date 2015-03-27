@@ -1,18 +1,9 @@
-name: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+name: Xiang Ji's Webpage
+url: http://example.org
+description: A place for some footprints
 
-url: http://brianmaierjr.github.com/long-haul
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
-
-markdown: redcarpet
+permalink: /:year/:month/:day/:title/
+paginate: 10
 pygments: true
-paginate: 5
 
-navigation:
- - title: Home
-   url: /index.html
- - title: About
-   url: /about
- - title: Contact
-   url: /contact
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
