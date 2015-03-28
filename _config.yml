@@ -1,7 +1,7 @@
-name: Long Haul
+name: 北京大学手风琴协会
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://pku-accordion.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
