@@ -8,66 +8,14 @@
 		
 			
 			<item>
-				<title>Example Post Formatting</title>
+				<title>2014-2015招新说明</title>
 				
-					<description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;C&lt;/span&gt;urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 15 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://pku-accordion.github.io//blog/example-post-formatting/</link>
-				<guid isPermaLink="true">http://pku-accordion.github.io//blog/example-post-formatting/</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>Featured Image</title>
-				
-					<description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
+					<description>&lt;p&gt;　　　　　北京大学手风琴协会２０１４－２０１５学年度招新&lt;/p&gt;
 </description>
 				
 				<pubDate>Sun, 14 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://pku-accordion.github.io//blog/featured-image/</link>
-				<guid isPermaLink="true">http://pku-accordion.github.io//blog/featured-image/</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>Post With A Code Snippet</title>
-				
-					<description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;Y&lt;/span&gt;ou&#39;ll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes! To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sat, 13 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://pku-accordion.github.io//blog/code-snippet/</link>
-				<guid isPermaLink="true">http://pku-accordion.github.io//blog/code-snippet/</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>Figure With A Caption</title>
-				
-					<description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 12 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://pku-accordion.github.io//blog/figure-with-caption/</link>
-				<guid isPermaLink="true">http://pku-accordion.github.io//blog/figure-with-caption/</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>Image in Post</title>
-				
-					<description>&lt;p class=&quot;intro&quot;&gt;&lt;span class=&quot;dropcap&quot;&gt;L&lt;/span&gt;orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 11 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://pku-accordion.github.io//blog/image-in-post/</link>
-				<guid isPermaLink="true">http://pku-accordion.github.io//blog/image-in-post/</guid>
+				<link>http://pku-accordion.github.io//blog/recruit-detail/</link>
+				<guid isPermaLink="true">http://pku-accordion.github.io//blog/recruit-detail/</guid>
 			</item>
 			
 		
@@ -79,20 +27,8 @@
 </description>
 				
 				<pubDate>Wed, 10 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://pku-accordion.github.io//blog/test-post/</link>
-				<guid isPermaLink="true">http://pku-accordion.github.io//blog/test-post/</guid>
-			</item>
-			
-		
-			
-			<item>
-				<title>beijing</title>
-				
-					<description></description>
-				
-				<pubDate>Wed, 10 Dec 2014 00:00:00 -0500</pubDate>
-				<link>http://pku-accordion.github.io//blog/Recruit/</link>
-				<guid isPermaLink="true">http://pku-accordion.github.io//blog/Recruit/</guid>
+				<link>http://pku-accordion.github.io//blog/christmas-concert/</link>
+				<guid isPermaLink="true">http://pku-accordion.github.io//blog/christmas-concert/</guid>
 			</item>
 			
 		
