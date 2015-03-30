@@ -5,6 +5,9 @@ url: http://pku-accordion.github.io/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
+paginate_path: "webvideos/page:num/"
+permalink: webvideos/:title/
+
 markdown: redcarpet
 pygments: true
 paginate: 5
@@ -14,7 +17,5 @@ navigation:
    url: /index.html
  - title: 协会简介
    url: /about
- - title: 他山之石
-   url: /webvideos
  - title: 联系我们
    url: /contact
