@@ -1,11 +1,10 @@
 ---
 layout: default
 title: 协会简介
+image: logo.jpg
 ---
 
-<div class="post">
 	<h1 class="pageTitle">北京大学手风琴协会简介</h1>
-	<img src="{{ site.url }}/assets/img/logo.jpg" alt="">
 	
 北京大学手风琴协会前身为北京大学手风琴队，已有半个世纪的历史。她正式成立于2009年，作为专业的大学生音乐类社团，自成立以来已经走过5个春秋。经过历任社长、社员的共同努力，现已壮大为百人规模的大家庭。
 
