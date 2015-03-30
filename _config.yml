@@ -10,9 +10,9 @@ pygments: true
 paginate: 5
 
 navigation:
- - title: Home
+ - title: 协会主页
    url: /index.html
- - title: About
+ - title: 协会简介
    url: /about
- - title: Contact
+ - title: 联系我们
    url: /contact

@@ -1,25 +1,27 @@
 ---
 layout: default
-title: About Long Haul
+title: 协会简介
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ site.url }}/assets/img/touring.jpg" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://http://formspree.io//">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
-</div>
+	<h1 class="pageTitle">北京大学手风琴协会简介</h1>
+	<img src="{{ site.url }}/assets/img/logo.jpg" alt="">
+	
+北京大学手风琴协会前身为北京大学手风琴队，已有半个世纪的历史。她正式成立于2009年，作为专业的大学生音乐类社团，自成立以来已经走过5个春秋。经过历任社长、社员的共同努力，现已壮大为百人规模的大家庭。
+
+协会活动主要有：
+
+	*日常练习，
+
+	*零基础班教学、提高班教学，学员汇报成果展
+
+	*清华、人大等高校手风琴音乐会及钢琴社、提琴社等兄弟协会专场音乐会的合作及观摩，
+
+	*北京大学手风琴协会每年度专场演出，并为技术过硬的社员提供有偿商业演出机会；
+
+	*音乐沙龙（名家讲座，音乐类社团交流、联谊）。
+
+
+同时，我们还有自己的资源共享平台，为你提供市面上几乎所有的手风琴曲谱。
+
+更重要的是：所有的活动背后，都有手风琴前辈、大牛的指导和支持。
