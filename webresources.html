@@ -15,11 +15,11 @@ title: 他山之石
         </ul>
         <!-- Pagination links -->
         <div class="pagination">
-          {% if paginator.previous_page %}
-            <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous button__outline">Newer Posts</a>  
+          {% if site.categories.webreferences.previous_page %}
+            <a href="{{ site.url }}{{ site.categories.webreferences.previous_page_path }}" class="previous button__outline">Newer Posts</a>  
           {% endif %} 
-          {% if paginator.next_page %}
-            <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next button__outline">Older Posts</a>
+          {% if site.categories.webreferences.next_page %}
+            <a href="{{ site.url }}{{ site.categories.webreferences.next_page_path }}" class="next button__outline">Older Posts</a>
           {% endif %}
         </div>
       </div>
