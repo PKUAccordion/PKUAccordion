@@ -13,13 +13,4 @@ title: 他山之石
             </li>
           {% endfor %}
         </ul>
-        <!-- Pagination links -->
-        <div class="pagination">
-          {% if site.categories.webreferences.previous_page %}
-            <a href="{{ site.url }}{{ site.categories.webreferences.previous_page_path }}" class="previous button__outline">Newer Posts</a>  
-          {% endif %} 
-          {% if site.categories.webreferences.next_page %}
-            <a href="{{ site.url }}{{ site.categories.webreferences.next_page_path }}" class="next button__outline">Older Posts</a>
-          {% endif %}
-        </div>
       </div>
