@@ -5,7 +5,7 @@ title: 他山之石
 
       <div id="home">
         <ul class="posts noList">
-          {% for post in paginator.webposts %}
+          {% for post in site.categories.webreferences %}
             <li>
             	<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
             	<h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
