@@ -6,7 +6,7 @@ title: 北京大学手风琴协会
       <div id="home">
         <h1 class="pageTitle">最新动态</h1>
         <ul class="posts noList">
-          {% for post in paginator.posts %}
+          {% for post in site.categories.recent_activities %}
             <li>
             	<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
             	<h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
