@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "手风琴艺术的形成于发展"
+date:   2015-03-27
+---
+<object data="/assets/file手风琴艺术的形成与发展.pdf" type="application/pdf" width="300" height="500">
+  alt : <a href="/assets/file手风琴艺术的形成与发展.pdf"">手风琴艺术的形成与发展.pdf"</a>
+</object>
