@@ -1,0 +1,18 @@
+---
+layout: default
+title: 乐谱共享
+---
+
+      <div id="home">
+        <ul class="posts noList">
+          {% for post in site.categories.scores %}
+            <li>
+            	<span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
+            	<h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
+            	<!--
+				<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
+				-->
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
