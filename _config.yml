@@ -16,7 +16,5 @@ navigation:
    url: /about
  - title: 他山之石
    url: /webresources
- - title: 乐谱共享
-   url: /scores
  - title: 联系我们
    url: /contact
