@@ -5,4 +5,4 @@ date:   2015-03-27
 ---
 
 
-![alt text](/assets/files/2/一步之遥的手风琴二重奏版本.jpg "一步之遥")
+![alt text](/assets/files/2/一步之遥的手风琴二重奏版本.jpg "一步之遥" style="width:100%; height:600px;")
