@@ -19,7 +19,7 @@ if __name__ == '__main__':
 
     idx = 1
     today = '/' + str(datetime.date.today()) + '-'
-    pdf_line = '<iframe src="http://docs.google.com/gview?url=replace&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>'
+    pdf_line = '<iframe src="http://docs.google.com/gview?url=replace&embedded=true" style="width:588px; height:833px;" frameborder="0"></iframe>'
     jpg_line = '![alt text](replace "jpg score")'
     permalink_prefix = 'https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/'
 
