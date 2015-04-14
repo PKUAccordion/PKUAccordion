@@ -33,6 +33,7 @@ if __name__ == '__main__':
                 new_name = [i for i in page if ord(i) <= 127]
                 if len(new_name) <= 4:
                     new_name = str(page_num) + ''.join(new_name)
+                    page_num += 1
                 else:
                     new_name = ''.join(new_name)
                 
