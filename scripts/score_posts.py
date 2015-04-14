@@ -19,7 +19,7 @@ if __name__ == '__main__':
 
     idx = 1
     today = '/' + str(datetime.date.today()) + '-'
-    pdf_line = '<iframe src="http://docs.google.com/gview?url=replace&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>'
+    pdf_line = '<iframe src="http://docs.google.com/gview?url=replace&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>'
     jpg_line = '![alt text](replace "jpg score")'
     permalink_prefix = 'https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/'
 
@@ -32,7 +32,7 @@ if __name__ == '__main__':
     with open('/'.join([score_dir, 'finished.txt']), 'r') as g:
         finished_list = [i.replace('\n', '') for i in g.readlines()]
 
-#    finished_list = []
+    finished_list = []
 
     for directory in file_list:
         if os.path.isfile(score_dir + '/' + directory):
@@ -61,7 +61,6 @@ if __name__ == '__main__':
                 else:
                     page_to_num[page] = 0
             pages = sorted(page_to_num)
-            print pages
             
             with codecs.open(markdown_dir + today + directory + '.markdown', 'w+', encoding = 'utf8') as f:
                 if num_to_name.has_key(directory):
@@ -74,10 +73,14 @@ if __name__ == '__main__':
                 for page in pages:
                     permalink = permalink_prefix + directory + '/' + page#.decode('utf-8')
                     if page[-3:] == 'pdf':
+                        f.write('<div style="text-align:center">' + '\n')
                         f.write(deepcopy(pdf_line).replace('replace', permalink) + '\n')
+                        f.write('</div>' + '\n')
                         f.write('\n')
                     elif page[-3:] == 'jpg':
+                        f.write('<div style="text-align:center">' + '\n')
                         f.write(deepcopy(jpg_line).replace('replace', permalink) + '\n')
+                        f.write('</div>' + '\n')
                         f.write('\n')
                         
                     

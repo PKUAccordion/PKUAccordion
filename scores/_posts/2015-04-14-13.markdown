@@ -2,28 +2,52 @@
 title: " 鄂伦春民歌主题变奏曲(二声部)"
 date: 2015-04-14
 ---
-<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0063.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<div style="text-align:center">
+<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0063.pdf&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>
+</div>
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0064.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<div style="text-align:center">
+<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0064.pdf&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>
+</div>
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0065.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<div style="text-align:center">
+<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0065.pdf&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>
+</div>
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0066.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<div style="text-align:center">
+<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0066.pdf&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>
+</div>
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0067.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<div style="text-align:center">
+<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0067.pdf&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>
+</div>
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0068.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<div style="text-align:center">
+<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0068.pdf&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>
+</div>
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0069.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<div style="text-align:center">
+<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0069.pdf&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>
+</div>
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0070.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<div style="text-align:center">
+<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0070.pdf&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>
+</div>
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0071.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<div style="text-align:center">
+<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0071.pdf&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>
+</div>
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0072.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<div style="text-align:center">
+<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0072.pdf&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>
+</div>
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0073.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<div style="text-align:center">
+<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0073.pdf&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>
+</div>
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0074.pdf&embedded=true" style="width:100%; height:900px;" frameborder="0"></iframe>
+<div style="text-align:center">
+<iframe src="http://docs.google.com/gview?url=https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/13/0074.pdf&embedded=true" style="width:600px; height:840px;" frameborder="0"></iframe>
+</div>
 
 

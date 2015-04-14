@@ -2,6 +2,8 @@
 title: " 一步之遥(二重奏)"
 date: 2015-04-14
 ---
+<div style="text-align:center">
 ![alt text](https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/2/1.jpg "jpg score")
+</div>
 
 
