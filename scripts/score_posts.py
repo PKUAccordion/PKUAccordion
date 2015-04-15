@@ -78,9 +78,9 @@ if __name__ == '__main__':
                         f.write('</div>' + '\n')
                         f.write('\n')
                     elif page[-3:] == 'jpg':
-                        f.write('<div style="text-align:center">' + '\n')
+                        #f.write('<div style="text-align:center">' + '\n')
                         f.write(deepcopy(jpg_line).replace('replace', permalink) + '\n')
-                        f.write('</div>' + '\n')
+                        #f.write('</div>' + '\n')
                         f.write('\n')
                         
                     
