@@ -2,7 +2,6 @@
 title: " 在阳光灿烂的草地上"
 date: 2015-04-14
 ---
-
 ![alt text](https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/1/part1.jpg "jpg score")
 
 ![alt text](https://github.com/pku-accordion/pku-accordion.github.io/raw/77f042ef77f64bc522f6c7f0b22336c723e51bcf/assets/files/1/part2.jpg "jpg score")
